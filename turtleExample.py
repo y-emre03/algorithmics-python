@@ -1,5 +1,5 @@
 from turtle import *
-color("blue")
+color("red")
 width(700)
 forward(100)
 penup()
